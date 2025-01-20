@@ -35,15 +35,24 @@ CSE undergrad at IUT-OIC,Bangladesh, fueled by curiosity and a love for crafting
 - 📳Freelancing Platforms
 - 🤵Personal Projects
 ---
-**💬Ask me about**
-- life and technology 
---- 
-**😄 Pronouns:** 
-- he/him
----
 **⚡Fun fact:**
 - Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
 ---
+## Let's Connect! 🌐
+
+I love connecting with fellow developers, programmers, and tech enthusiasts! Whether you're into web development, AI, coding challenges, or just exploring the world of tech, let's chat and collaborate!
+
+Feel free to reach out through any of the platforms below:
+
+- **LinkedIn**: Not Avaiable 
+- **GitHub**: https://github.com/sunbimhaqueniloy
+- **Twitter**: Not Available
+- **Email**: sunbimhaqueniloy@gmail.com
+- **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
+If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
+
+Let's build the future together! 🚀
+- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sunbimhaqueniloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunbimhaque.niloy)  
