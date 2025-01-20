@@ -45,14 +45,14 @@ I love connecting with fellow developers, programmers, and tech enthusiasts! Whe
 Feel free to reach out through any of the platforms below:
 
 - **LinkedIn**: Not Avaiable 
-- **GitHub**: https://github.com/sunbimhaqueniloy
-- **Twitter**: Not Available
-- **Email**: sunbimhaqueniloy@gmail.com
+- **GitHub**:   https://github.com/sunbimhaqueniloy
+- **Twitter**:  Not Available
+- **Email**:    sunbimhaqueniloy@gmail.com
 - **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
-If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
+- If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
 
-Let's build the future together! 🚀
-- 
+- Let's build the future together! 🚀
+--- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sunbimhaqueniloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunbimhaque.niloy)  
