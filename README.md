@@ -4,11 +4,11 @@
 **CSE undergrad at IUT-OIC,Bangladesh, fueled by curiosity and a love for crafting elegant solutions. From front-end finesse to back-end logic, I'm passionate about full-stack web development and exploring the potential of AI. Building the future, one line of code at a time.**
 
 **Skills and Tools:** 
-         - Design :Figma,Illustrator,Photoshop
-         - Development : HTML,CSS,JavaScript,C,C++,Python
-         - Editor : VS code,Codeblocks
-         - Markup : Markdown
-         - Version control : Git
+         *Design :Figma,Illustrator,Photoshop
+         *Development : HTML,CSS,JavaScript,C,C++,Python
+         *Editor : VS code,Codeblocks
+         *Markup : Markdown
+         *Version control : Git
          
 - 🔭 I’m currently working on Some projects like-• List Implementation •Tree Data Structure •File System Simulator •Sorting Algorithms •Graph Data Structure •Interpreter for a Simple Language
 - 
