@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sunbim Haque Niloy
-### A passionate Webdeveloper and Programmer from Bangladesh  
+### A passionate Webdeveloper and Programmer from Bangladesh 🇧🇩 
 ![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/474479205_1139914527677852_4571425054882783475_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGREDynyiIFyQb-cWVZBl1h3G3rXqRqZ7ncbetepGpnuZ0DR0Tzis7PJHcJsrXrWHP3dE82tH5lB-uXJQXkrw3S&_nc_ohc=RZ99puKQ6P8Q7kNvgH9fABL&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=A1CTshqUz8ANfzeaWGm9TQa&oh=00_AYBDjVWPZCHCnh8oVzrAJXc67jp0Oq6QuWc4-Q3qPkWNvQ&oe=67942DA8)
  
 ---
@@ -54,8 +54,6 @@ Feel free to reach out through any of the platforms below:
 ## Let's Build the Future Together! 🚀
 
 As a passionate web developer and programmer, I believe in the power of collaboration and innovation to shape the future. The tech industry is evolving at an incredible pace, and together, we can contribute to groundbreaking projects that change how we live and work.
-
-Whether you're working on cutting-edge web applications, exploring new programming languages, or diving into emerging technologies like AI and machine learning, there’s always something new to learn and create. 
 
 If you’re driven by problem-solving, building solutions, and pushing the boundaries of what technology can achieve, let’s join forces and make a lasting impact. The future is ours to build, and it starts with a single line of code! 💻🌍
 
