@@ -15,7 +15,16 @@ Skills:
          
 - 🔭 I’m currently working on Some projects like-• List Implementation •Tree Data Structure •File System Simulator •Sorting Algorithms •Graph Data Structure •Interpreter for a Simple Language
 - 
--🌱 I’m currently learning Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases).🌏 Learning Machine Learning and AI to build intelligent web solutions. 
+-🌱 I’m currently learning Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases).🌏 Learning Machine Learning and AI to build intelligent web solutions.
+ 🖥️ Currently Learning
+
+I’m constantly learning and adapting, diving into web development with a focus on both frontend and backend technologies. Every new skill learned is another step toward building a complete, functional web experience. My short attention span makes the journey fun and full of surprises! 😅
+
+Current focus:
+
+    🌐 Frontend: React.js, Tailwind CSS
+    🔙 Backend: Node.js, Express, SQL/NoSQL Databases
+
 - 👯 I’m looking to collaborate on 🛡️Open-Source Projects on GitHub, 🗡️Hackathons, 🌏Online Communities, 📳Freelancing Platforms,🤵Personal Projects
 - 
 - 💬 Ask me about Life and Technology
