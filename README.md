@@ -1,9 +1,7 @@
 ## Hi there 👋, I'm Sunbim Haque Niloy
 ### A passionate Webdeveloper and Programmer from Bangladesh  
 ![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/474479205_1139914527677852_4571425054882783475_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGREDynyiIFyQb-cWVZBl1h3G3rXqRqZ7ncbetepGpnuZ0DR0Tzis7PJHcJsrXrWHP3dE82tH5lB-uXJQXkrw3S&_nc_ohc=RZ99puKQ6P8Q7kNvgH9fABL&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=A1CTshqUz8ANfzeaWGm9TQa&oh=00_AYBDjVWPZCHCnh8oVzrAJXc67jp0Oq6QuWc4-Q3qPkWNvQ&oe=67942DA8)
-
-
-CSE undergrad at IUT-OIC,Bangladesh, fueled by curiosity and a love for crafting elegant solutions. From front-end finesse to back-end logic, I'm passionate about full-stack web development and exploring the potential of AI. Building the future, one line of code at a time.
+ 
 ---
 
 
