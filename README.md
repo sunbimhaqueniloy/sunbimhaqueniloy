@@ -24,27 +24,26 @@ CSE undergrad at IUT-OIC,Bangladesh, fueled by curiosity and a love for crafting
 -  📉Graph Data Structure
 -  🗣️Interpreter for a Simple Language
 ---
-- 
 **🌱 I’m currently learning** 
 - Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases)
 - Machine Learning and Artificial Intelligence to build intelligent web solutions
 ---
- 
-
-I’m constantly learning and adapting, diving into web development with a focus on both frontend and backend technologies. Every new skill learned is another step toward building a complete, functional web experience. My short attention span makes the journey fun and full of surprises! 😅
-
-Current focus:
-
-    🌐 Frontend: React.js, Tailwind CSS
-    🔙 Backend: Node.js, Express, SQL/NoSQL Databases
-
-- 👯 I’m looking to collaborate on 🛡️Open-Source Projects on GitHub, 🗡️Hackathons, 🌏Online Communities, 📳Freelancing Platforms,🤵Personal Projects
-- 
-- 💬 Ask me about Life and Technology
-- 
-- 😄 Pronouns: he/him
-- 
-- ⚡ Fun fact: Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
+**👯 I’m looking to collaborate on:** 
+- 🛡️Open-Source Projects on GitHub
+- 🗡️Hackathons
+- 🌏Online Communities
+- 📳Freelancing Platforms
+- 🤵Personal Projects
+---
+**💬Ask me about**
+- life and technology 
+--- 
+**😄 Pronouns:** 
+- he/him
+---
+**⚡Fun fact:**
+- Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
+---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sunbimhaqueniloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunbimhaque.niloy)  
