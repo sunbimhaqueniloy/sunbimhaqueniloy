@@ -7,18 +7,22 @@ CSE undergrad at IUT-OIC,Bangladesh, fueled by curiosity and a love for crafting
 
 
 Skills:  
-         • Design :Figma,Illustrator,Photoshop/n
-         • Development : HTML,CSS,JavaScript,C,C++,Python/n
-         • Editor : VS code,Codeblocks/n
+         • Design :Figma,Illustrator,Photoshop
+         • Development : HTML,CSS,JavaScript,C,C++,Python
+         • Editor : VS code,Codeblocks
          • Markup : Markdown
          • Version control : Git
          
-- 🔭 I’m currently working on Some projects like- List Implementation,Tree Data Structure,File System Simulator,Sorting Algorithms,Graph Data Structure,Interpreter for a Simple Language 
--🌱 I’m currently learning Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases). Learning Machine Learning and AI to build intelligent web solutions. 
-- 👯 I’m looking to collaborate on Open-Source Projects on GitHub,Hackathons,Online Communities,Freelancing Platforms,Personal Projects 
-- 💬 Ask me about Life and Technology 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan who secretly dreams of levitating with Harry Potter. Physics and math? My jam. 
+- 🔭 I’m currently working on Some projects like-• List Implementation •Tree Data Structure •File System Simulator •Sorting Algorithms •Graph Data Structure •Interpreter for a Simple Language
+- 
+-🌱 I’m currently learning Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases).🌏 Learning Machine Learning and AI to build intelligent web solutions. 
+- 👯 I’m looking to collaborate on 🛡️Open-Source Projects on GitHub, 🗡️Hackathons, 🌏Online Communities, 📳Freelancing Platforms,🤵Personal Projects
+- 
+- 💬 Ask me about Life and Technology
+- 
+- 😄 Pronouns: he/him
+- 
+- ⚡ Fun fact: Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sunbimhaqueniloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunbimhaque.niloy)  
