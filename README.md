@@ -49,9 +49,22 @@ Feel free to reach out through any of the platforms below:
 - **Twitter**:  Not Available
 - **Email**:    sunbimhaqueniloy@gmail.com
 - **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
+- **Location**:Dhaka,Bangladesh
 - If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
+---
 
-- Let's build the future together! 🚀
+## Let's Build the Future Together! 🚀
+
+As a passionate web developer and programmer, I believe in the power of collaboration and innovation to shape the future. The tech industry is evolving at an incredible pace, and together, we can contribute to groundbreaking projects that change how we live and work.
+
+Whether you're working on cutting-edge web applications, exploring new programming languages, or diving into emerging technologies like AI and machine learning, there’s always something new to learn and create. 
+
+If you’re driven by problem-solving, building solutions, and pushing the boundaries of what technology can achieve, let’s join forces and make a lasting impact. The future is ours to build, and it starts with a single line of code! 💻🌍
+
+Looking forward to connecting and collaborating with you!
+
+"What we’re coding today will shape the future of humanity tomorrow."
+
 --- 
 
 
