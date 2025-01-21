@@ -34,7 +34,7 @@
 - 🤵Personal Projects
 ---
 **⚡Fun fact:**
-- Trying to conquer the tech world one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
+- Trying to conquer the tech world with one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
 ---
 ## Let's Connect! 🌐
 
@@ -48,7 +48,7 @@ Feel free to reach out through any of the platforms below:
 - **Email**:    sunbimhaqueniloy@gmail.com
 - **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
 - **Location**:Dhaka,Bangladesh
-- If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
+  If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
 ---
 
 ## Let's Build the Future Together! 🚀
