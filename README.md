@@ -42,7 +42,7 @@ I love connecting with fellow developers, programmers, and tech enthusiasts! Whe
 
 Feel free to reach out through any of the platforms below:
 
-- **LinkedIn**: Not Avaiable 
+- **LinkedIn**:  https://www.linkedin.com/in/sunbim-haque-niloy-199b49211/
 - **GitHub**:   https://github.com/sunbimhaqueniloy
 - **Twitter**:  Not Available
 - **Email**:    sunbimhaqueniloy@gmail.com
