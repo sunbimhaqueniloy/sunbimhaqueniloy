@@ -23,7 +23,6 @@
 -  🗣️Interpreter for a Simple Language
 ---
 **🌱 I’m currently learning** 
-- Web Development specializing in(🌐 Frontend: React.js, Tailwind CSS and 🔙 Backend: Node.js, Express, SQL/NoSQL Databases)
 - Machine Learning and Artificial Intelligence to build intelligent web solutions
 ---
 **👯 I’m looking to collaborate on:** 
@@ -34,8 +33,7 @@
 - 🤵Personal Projects
 ---
 **⚡Fun fact:**
-- Trying to conquer the tech world with one line of code at a time. Also, a die-hard Messi fan ⚽ who secretly dreams of levitating with Harry Potter 🪄. Physics and math? My jam. 
----
+- Trying to conquer the tech world with one line of code at a time.
 ## Let's Connect! 🌐
 
 I love connecting with fellow developers, programmers, and tech enthusiasts! Whether you're into web development, AI, coding challenges, or just exploring the world of tech, let's chat and collaborate!
