@@ -42,7 +42,7 @@ Feel free to reach out through any of the platforms below:
 
 - **LinkedIn**:  https://www.linkedin.com/in/sunbim-haque-niloy-199b49211/
 - **GitHub**:   https://github.com/sunbimhaqueniloy
-- **Twitter**:  Not Available
+- **Twitter**:  https://x.com/Niloy84865
 - **Email**:    sunbimhaqueniloy@gmail.com
 - **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
 - **Location**:Dhaka,Bangladesh
