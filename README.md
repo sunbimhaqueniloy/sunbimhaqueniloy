@@ -52,7 +52,6 @@ Feel free to reach out through any of the platforms below:
 
 Looking forward to connecting and collaborating with you!
 
-"What we’re coding today will shape the future of humanity tomorrow."
 
 --- 
 
