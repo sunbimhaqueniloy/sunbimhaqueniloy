@@ -33,7 +33,7 @@
 - 🤵Personal Projects
 ---
 **⚡Fun fact:**
-- Trying to conquer the tech world with one line of code at a time.
+
 ## Let's Connect! 🌐
 
 I love connecting with fellow developers, programmers, and tech enthusiasts! Whether you're into web development, AI, coding challenges, or just exploring the world of tech, let's chat and collaborate!
@@ -46,14 +46,9 @@ Feel free to reach out through any of the platforms below:
 - **Email**:    sunbimhaqueniloy@gmail.com
 - **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
 - **Location**:Dhaka,Bangladesh
-- If you're looking for advice, collaboration on projects, or just want to share ideas about the tech industry, I’m always open to new connections! 🤝
 ---
 
 ## Let's Build the Future Together! 🚀
-
-As a passionate web developer and programmer, I believe in the power of collaboration and innovation to shape the future. The tech industry is evolving at an incredible pace, and together, we can contribute to groundbreaking projects that change how we live and work.
-
-If you’re driven by problem-solving, building solutions, and pushing the boundaries of what technology can achieve, let’s join forces and make a lasting impact. The future is ours to build, and it starts with a single line of code! 💻🌍
 
 Looking forward to connecting and collaborating with you!
 
