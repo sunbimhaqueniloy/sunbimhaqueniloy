@@ -6,11 +6,7 @@
 
 
 **🛠Skills and Tools:** 
-- 🎨Design :Figma,Illustrator,Photoshop
-- 💻Development : HTML,CSS,JavaScript,C,C++,Python
-- 📝Editor : VS code,Codeblocks
-- 📚Markup : Markdown
-- 🗂️Version Control : Git
+
 ---                   
                 
         
