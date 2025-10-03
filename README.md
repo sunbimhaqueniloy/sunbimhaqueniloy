@@ -27,21 +27,7 @@
 
 ## Let's Connect! 🌐
 
-I love connecting with fellow developers, programmers, and tech enthusiasts! Whether you're into web development, AI, coding challenges, or just exploring the world of tech, let's chat and collaborate!
 
-Feel free to reach out through any of the platforms below:
-
-- **LinkedIn**:  https://www.linkedin.com/in/sunbim-haque-niloy-199b49211/
-- **GitHub**:   https://github.com/sunbimhaqueniloy
-- **Twitter**:  https://x.com/Niloy84865
-- **Email**:    sunbimhaqueniloy@gmail.com
-- **Facebook**: https://www.facebook.com/sunbimhaque.niloy/
-- **Location**:Dhaka,Bangladesh
----
-
-## Let's Build the Future Together! 🚀
-
-Looking forward to connecting and collaborating with you!
 
 
 --- 
